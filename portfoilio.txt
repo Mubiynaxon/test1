@@ -1,1 +1,2 @@
 salom bu local repository
+bu ikkinchi commit
